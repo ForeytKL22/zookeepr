@@ -117,6 +117,13 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Larry",
+      "species": "Horse",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "12"
     }
   ]
 }
